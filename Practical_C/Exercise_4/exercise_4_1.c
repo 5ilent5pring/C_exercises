@@ -8,7 +8,7 @@
 //char Birthdate[10];
 
 int main() {
-        char Name[] = "Sertaç Akman";
+        char Name[] = "Cyber Caretta";
         int64_t SecID = 12345678910;
         char Birthdate[] = "01.01.1991";
         printf("%s has a %ld security number and birth date is %s\n", Name, SecID, Birthdate);
