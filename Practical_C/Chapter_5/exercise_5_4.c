@@ -7,4 +7,5 @@ int main() {
         scanf("%f", &kilometer);
         float miles = kilometer * 0.6213712;
         printf("it is %f miles\n", miles);
+        return 0;
 }
