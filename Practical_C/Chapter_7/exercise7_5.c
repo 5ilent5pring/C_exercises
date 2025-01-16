@@ -1,3 +1,7 @@
+/*
+Write a program to tell if a number is prime.
+*/
+
 #include <stdio.h>
 
 int main() {
